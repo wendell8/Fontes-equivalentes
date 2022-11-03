@@ -1,6 +1,6 @@
-# Fontes-equivalentes
-https://www.fatiando.org/harmonica/latest/user_guide/equivalent_sources/index.html
-# Aulas
-https://github.com/leouieda/geofisica1
-# Sites de programas cracker
-https://getintopc.com/
+># **_Fontes-equivalentes_**
+>>_https://www.fatiando.org/harmonica/latest/user_guide/equivalent_sources/index.html_
+>## **Aulas**
+>>_https://github.com/leouieda/geofisica1_
+>## _Sites de programas cracker_
+>>_https://getintopc.com/_
